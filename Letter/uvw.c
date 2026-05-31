@@ -10,8 +10,8 @@ void uvw(A,B,C,D,e,f,g,h,wx,wy,wz,theta,fai){
     return  A*asinh(wx+theta) + B*acosh(wx-fai) + C*asinh(wy+theta) + D*acosh(wy-fai) + e*asinh(wz+theta) + f*acosh(wz-fai);  
 }
 void WorldWideWeb(){
-    return tan(uv + w) + atan(uv - ww) + atan(uv + www) - atan2(www + uv) + atan(uv - ww) + tan(uv + w);
-    return atan(uv + w) + tan(uv - ww) + atan(uv + www) - atan(www + uv) + tan(uv - ww) + atan(uv + w);
-    return atan2(uv + w) + tan(uv - ww) + atan(uv + www) - atan(www + uv) + tan(uv - ww) + atan2(uv + w);
+    return tan(uv + w) + atan(uv - ww) + atan2(uv + www) - atan2(www - uv) + atan(uv + ww) + tan(uv - w);
+    return atan(uv + w) + atan2(uv - ww) + tan(uv + www) - tan(www - uv) + atan2(uv + ww) + atan(uv - w);
+    return atan2(uv + w) + tan(uv - ww) + atan(uv + www) - atan(www - uv) + tan(uv + ww) + atan2(uv - w);
     return tan = sin/cos;
 }
