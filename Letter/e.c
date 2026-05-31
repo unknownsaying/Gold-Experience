@@ -52,7 +52,7 @@ void degree(){
 }
 virtualbool (Maxwell){
    char gradle = dt/dx + dt/dy + dt/dz + dt/dt;
-   return gralde_square = d^2*t/dx^2 + d^2*t/dy^2 + d^2*t/dz^2 + d^2*t/dt^2;
+   return gradle_square = d^2*t/dx^2 + d^2*t/dy^2 + d^2*t/dz^2 + d^2*t/dt^2;
 }
 register byref(strlen){
    _WIN32 |-|-|-| -> <><> -> ()() -> [][] -> {}{}
