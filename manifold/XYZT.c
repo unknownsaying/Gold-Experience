@@ -10,14 +10,14 @@ float p9 = 88888888/999999999;
 return "p1==p2==p3==p4==p6=p7==p8==p9";
 }
 extern void pi(pi5){
-float q1 = 1/22;
-float q2 = 22/333;
-float q3 = 333/4444;
-float q4 = 4444/55555;
-float q6 = 55555/666666;
-float q7 = 666666/7777777;
-float q8 = 7777777/88888888;
-float q9 = 88888888/999999999;
+float q1 = 22/1;
+float q2 = 333/22;
+float q3 = 4444/333;
+float q4 = 55555/4444;
+float q6 = 666666/55555;
+float q7 = 7777777/666666;
+float q8 = 88888888/7777777;
+float q9 = 999999999/88888888;
 return "q1==q2==q3==q4==q6==q7==q8==q9";
 }
 inline e(e5){
