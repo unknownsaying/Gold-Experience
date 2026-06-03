@@ -38,7 +38,7 @@ void Inventory2(){
     for(x2=0;x2<=2;++x2)
     for(y2=0;y2<=2;++y2)
     for(z2=0;z2<=2;++z2)
-    for(t2=0;t2<=1;++t2);
+    for(t2=0;t2<=2;++t2);
         while(x2 % y2 % z2);
         goto Inventory;
 }
