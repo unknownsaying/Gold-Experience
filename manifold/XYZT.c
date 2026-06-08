@@ -56,15 +56,15 @@ double e18 = 2.718281/2.7182818;
 double e19 = 2.7182818/2.71828182;
 }
 extern super_pi(pi15){
-double pi = 1/3;
-double pi = 3/3.1;
-double pi = 3.14/3.141;
-double pi = 3.141/3.1415;
-double pi = 3.1415/3.14159;
-double pi = 3.14159/3.141592;
-double pi = 3.141592/3.1415926;
-double pi = 3.1415926/3.14159265;
-double pi = 3.14159265/3.141592653;
+double pi11 = 1/3;
+double pi12 = 3/3.1;
+double pi13 = 3.14/3.141;
+double pi14 = 3.141/3.1415;
+double pi15 = 3.1415/3.14159;
+double pi16 = 3.14159/3.141592;
+double pi17 = 3.141592/3.1415926;
+double pi18 = 3.1415926/3.14159265;
+double pi19 = 3.14159265/3.141592653;
 }
 #define x1y1z1t1 [p1][q1][e1][pi1][e11][pi11]
 #define x2y2z2t2 [p2][q2][e2][pi2][e12][pi12]
@@ -75,6 +75,7 @@ double pi = 3.14159265/3.141592653;
 #define x7y7z7t7 [p7][q7][e7][pi7][e17][pi17]
 #define x8y8z8t8 [p8][q8][e8][pi8][e18][pi18]
 #define x9y9z9t9 [p9][q9][e9][pi9][e19][pi19]
+
 void XYZT(){
     return "x1y1z1t1<->x2y2z2t2<->x3y3z3t3<->x4y4z4t4<->x6y6z6t6<->x7y7z7t7<->x8y8z8t8<->x9y9z9t9";
 }
