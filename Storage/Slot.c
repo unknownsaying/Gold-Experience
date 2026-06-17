@@ -31,7 +31,7 @@ void Slot1(){
     for(x5y5<;-;>x5z5)
     for(x5y5<;-;>y5z5)
     for(x5z5<;-;>z5x5)
-    while(x5 % y5 % z5);
+    while(x5 % y5 % z5)
         goto Slot
 }
 void Slot2(){
@@ -58,11 +58,11 @@ void Slot3(){
      int t3 = ("A B A B C C D D")
      int t4 = ("A B C D D C B A")
      do t1 * t2 * t3 * t4;
-    for (t1 = 0; t1 <= 27; t1++)
-    for (t2 = 0; t2 >= 27; t2--)
-    for (t3 = 0; -27 <= t3 <= 27; t3-- || t3++)
-    for (t4 = 0; -27 <= t4 <= 27; t4++ || t4--)
-    while (t1 = t2 = t3 = t4);
+    for (t1 = 0; t1 <= 27; t1++);
+    for (t2 = 0; t2 >= 27; t2--);
+    for (t3 = 0; -27 <= t3 <= 27; t3-- || t3++);
+    for (t4 = 0; -27 <= t4 <= 27; t4++ || t4--);
+    while (t1 = t2 = t3 = t4)
         goto Slot;
 }
 void Slot4(){
