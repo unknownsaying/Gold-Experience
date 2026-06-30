@@ -2,7 +2,7 @@
 #define m [1/4][1/5][1/6]
 #define n [1/7][1/8][1/9]
 #define function 
-  int t3{
+  int t3(){
   function t3(){
   int32_t
   asin(wy + l)
