@@ -7,7 +7,7 @@ float p6 = 55555/666666;
 float p7 = 666666/777777;
 float p8 = 7777777/88888888;
 float p9 = 88888888/999999999;
-return "p1==p2==p3==p4==p6=p7==p8==p9";
+return "p1>=p2>=p3>=p4>=p6>=p7>=p8>=p9";
 }
 extern void pi(pi5){
 float q1 = 22/1;
@@ -18,7 +18,7 @@ float q6 = 666666/55555;
 float q7 = 7777777/666666;
 float q8 = 88888888/7777777;
 float q9 = 999999999/88888888;
-return "q1==q2==q3==q4==q6==q7==q8==q9";
+return "q1>=q2>=q3>=q4>=q6>=q7>=q8>=q9";
 }
 inline e(e5){
 int e1 = 1/2;
@@ -30,7 +30,7 @@ int e6 = 1/2.71828;
 int e7 = 1/2.718281;
 int e8 = 1/2.7182818;
 int e9 = 1/2.71828182;
-return "e1==e2==e3==e4==e5==e6==e7==e8==e9";
+return "e1>=e2>=e3>=e4>=e5>=e6>=e7>=e8>=e9";
 }
 extern pi(pi15){
 int pi11 = 1/3;
@@ -42,7 +42,7 @@ int pi16 = 1/3.14159;
 int pi17 = 1/3.141592;
 int pi18 = 1/3.1415926;
 int pi19 = 1/3.14159265;
-return "pi1==pi2==pi3==pi4==pi5==pi6==pi7==pi8==pi9";
+return "pi1>=pi2>=pi3>=pi4>=pi5>=pi6>=pi7>=pi8>=pi9";
 }
 inline super_e(e15){
 double e11 = 1/2;
