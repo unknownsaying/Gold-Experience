@@ -1,10 +1,12 @@
 #define o [0.1][0.2][0.3]
 #define p [0.4][0.5][0.6]
 #define q [0.7][0.8][0.9]
+
 void opq(){
   char wz;
 }
-int t5{
+
+int t5(){
    function t5(){
    int512_t
    sh(wz + o)
@@ -16,7 +18,7 @@ int t5{
    ch(wz - o)
 }
 }
-int t6{
+int t6(){
    function t6(){
    int4096_t
    sh(wz - o)
