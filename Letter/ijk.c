@@ -5,7 +5,7 @@ int ijk(){
     char wx,wy,wz;
     return 
     "1 = i*j + j*k + i*k";
-    "-1 = wx * wy + wy*wz + wx*wz"
+    "-1 = wx*wy + wy*wz + wx*wz"
 ;}
 
 int t1(){
