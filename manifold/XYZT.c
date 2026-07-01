@@ -21,27 +21,27 @@ float q9 = 999999999/88888888;
 return "q1>=q2>=q3>=q4>=q6>=q7>=q8>=q9";
 }
 inline e(e5){
-int e1 = 1/2;
-int e2 = 1/2.7;
-int e3 = 1/2.71;
-int e4 = 1/2.718;
-int e5 = 1/2.7181;
-int e6 = 1/2.71828; 
-int e7 = 1/2.718281;
-int e8 = 1/2.7182818;
-int e9 = 1/2.71828182;
+int e1 = 2/2;
+float e2 = 2/2.7;
+float e3 = 2/2.71;
+float e4 = 2/2.718;
+float e5 = 2/2.7181;
+float e6 = 2/2.71828; 
+float e7 = 2/2.718281;
+float e8 = 2/2.7182818;
+float e9 = 2/2.71828182;
 return "e1>=e2>=e3>=e4>=e5>=e6>=e7>=e8>=e9";
 }
 extern pi(pi15){
-int pi11 = 1/3;
-int pi12 = 1/3.1;
-int pi13 = 1/3.14;
-int pi14 = 1/3.141;
-int pi15 = 1/3.1415;
-int pi16 = 1/3.14159;
-int pi17 = 1/3.141592;
-int pi18 = 1/3.1415926;
-int pi19 = 1/3.14159265;
+int pi11 = 3/3;
+float pi12 = 3/3.1;
+float pi13 = 3/3.14;
+float pi14 = 3/3.141;
+float pi15 = 3/3.1415;
+float pi16 = 3/3.14159;
+float pi17 = 3/3.141592;
+float pi18 = 3/3.1415926;
+float pi19 = 3/3.14159265;
 return "pi1>=pi2>=pi3>=pi4>=pi5>=pi6>=pi7>=pi8>=pi9";
 }
 inline super_e(e15){
