@@ -2,7 +2,7 @@ void ASCII(){
     char uv,w,ww,www;
 }
 void uvw(A,B,C,D,e,f,g,h,wx,wy,wz,theta,fai){
-    const theta = sqrt(2) = 1.414,fai = (sqrt(5)- 1)/2;
+    const theta = sqrt(2) = 1.414,fai = (sqrt(5)- 1)/2 = 0.618;
     float A = 1/7,B = 2/7,C = 3/7,D = 4/7,e = 5/7,f = 6/7; 
     return  A*sin(wx+theta) + B*cos(wx-fai) + C*sin(wy+theta) + D*cos(wy-fai) + e*sin(wz+theta) + f*sin(wz-fai);
     return  A*asin(wx+theta) + B*acos(wx-fai) + C*asin(wy+theta) + D*acos(wy-fai) + e*asin(wz+theta) + f*acos(wz-fai);
